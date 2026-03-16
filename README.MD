@@ -12,5 +12,5 @@
 <details>
 <summary><h3>Скриншоты</h3></summary>
   <br>
-<img src="https://github.com/a-zaboev/From_DWH_to_chat_Bitrix24/blob/main/report.png" alt='report screen' width='620'>
+<img src="https://github.com/a-zaboev/Movement_churn_and-_eactivation_of_active_clients/blob/main/AKB_churn_react.png" alt='report screen' width='620'>
 </details>
